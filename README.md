@@ -4,12 +4,12 @@
 
 # Mandatory kwargs user needs to provide:
 
-|       keyword      |      value type      |                           description                           | 
-| -------------- --- | -------------------- | --------------------------------------------------------------- |
-|   file_directory   |        **str**       |                path to dir with files to encrypt                |
-| parsed_destination |        **str**       |                path to dir where parsed files go                |
-|   encrypted_user   |        **str**       |                      value to replace users                     |
-| encrypted_password |        **str**       |                     value to replace password                   |
+|       keyword      |      value type      |
+| -------------- --- | -------------------- |
+|   file_directory   |        **str**       | 
+| parsed_destination |        **str**       |
+|   encrypted_user   |        **str**       |
+| encrypted_password |        **str**       |   
 
 # Tests
 
