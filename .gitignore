@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+venv
+*.log
+parsed_f
+ssh_f
